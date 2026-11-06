@@ -1,0 +1,19 @@
+PROJECT TITLE: RBS Cafe – Retail Sales Management & Analytics Dashboard
+
+OBJECTIVE:
+To develop a desktop-based retail sales application for a small cafe that records orders,
+maintains menu items, stores sales in CSV files, and presents useful sales analytics.
+
+MODULES:
+1. Dashboard
+2. New Billing
+3. Sales Records
+4. Analytics
+5. Menu Management
+6. Reports
+
+TECHNOLOGIES:
+Python, Tkinter, Pandas, NumPy, CSV, Matplotlib
+
+DATA STORAGE:
+Local CSV files are created automatically in the data folder on first execution.
